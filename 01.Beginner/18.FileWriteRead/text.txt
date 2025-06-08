@@ -1,0 +1,1 @@
+Hello C!\nTHis is a sample text that should be written to text.txt file out there.\nThis is a 18th 
